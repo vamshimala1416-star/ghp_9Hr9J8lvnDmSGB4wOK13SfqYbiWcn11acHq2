@@ -1,4 +1,4 @@
-#JITS DevOPs Project
+# JITS DevOPs Project
 This project is created as part of the JI
 ##Project
 JITS DevOps web project
