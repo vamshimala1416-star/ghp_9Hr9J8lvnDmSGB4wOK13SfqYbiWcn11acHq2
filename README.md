@@ -1,7 +1,7 @@
 
 # JITS DevOPs Project
 
-This project is created as part of the JI
+This project is created as part of the jits DevOps practical
 
 ## Project
 
